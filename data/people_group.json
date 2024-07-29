@@ -1,0 +1,237 @@
+{
+    "subjects": [
+      {
+        "id": 1,
+        "title": "Early Childhood/Preschool (Ages 2-5)",
+        "preview": "Early learning subjects for preschoolers.",
+        "description": "Subjects aimed at developing basic skills in language, math, science, social skills, and physical development for children aged 2-5.",
+        "subjects": [
+          {
+            "id": 1,
+            "title": "Language and Literacy",
+            "preview": "Basic vocabulary and phonemic awareness.",
+            "imagePath": "assets/images/language_and_literacy.jpg"
+          },
+          {
+            "id": 2,
+            "title": "Math Readiness",
+            "preview": "Counting and recognizing shapes.",
+            "imagePath": "assets/images/math_readiness.jpg"
+          },
+          {
+            "id": 3,
+            "title": "Science",
+            "preview": "Exploring the natural world.",
+            "imagePath": "assets/images/science.jpg"
+          },
+          {
+            "id": 4,
+            "title": "Social Skills",
+            "preview": "Sharing and cooperation.",
+            "imagePath": "assets/images/social_skills.jpg"
+          },
+          {
+            "id": 5,
+            "title": "Art and Creativity",
+            "preview": "Drawing, painting, and crafting.",
+            "imagePath": "assets/images/art_and_creativity.jpg"
+          },
+          {
+            "id": 6,
+            "title": "Physical Development",
+            "preview": "Gross and fine motor skills.",
+            "imagePath": "assets/images/physical_development.jpg"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Early Elementary School (Ages 6-8)",
+        "preview": "Foundational subjects for early elementary students.",
+        "description": "Subjects designed to build foundational skills in reading, writing, math, science, social studies, art, music, and physical education for children aged 6-8.",
+        "subjects": [
+          {
+            "id": 1,
+            "title": "Language Arts",
+            "preview": "Basic reading and writing.",
+            "imagePath": "assets/images/language_arts.jpg"
+          },
+          {
+            "id": 2,
+            "title": "Mathematics",
+            "preview": "Addition and subtraction.",
+            "imagePath": "assets/images/mathematics.jpg"
+          },
+          {
+            "id": 3,
+            "title": "Science",
+            "preview": "Nature and animals.",
+            "imagePath": "assets/images/science.jpg"
+          },
+          {
+            "id": 4,
+            "title": "Social Studies",
+            "preview": "Community helpers.",
+            "imagePath": "assets/images/social_studies.jpg"
+          },
+          {
+            "id": 5,
+            "title": "Art and Music",
+            "preview": "Drawing and singing.",
+            "imagePath": "assets/images/art_and_music.jpg"
+          },
+          {
+            "id": 6,
+            "title": "Physical Education",
+            "preview": "Basic sports and games.",
+            "imagePath": "assets/images/physical_education.jpg"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Late Elementary School (Ages 9-11)",
+        "preview": "Advanced subjects for late elementary students.",
+        "description": "Subjects that expand on basic skills with more advanced concepts in reading comprehension, essay writing, math, science, social studies, art, music, and physical education for children aged 9-11.",
+        "subjects": [
+          {
+            "id": 1,
+            "title": "Language Arts",
+            "preview": "Advanced reading comprehension.",
+            "imagePath": "assets/images/language_arts.jpg"
+          },
+          {
+            "id": 2,
+            "title": "Mathematics",
+            "preview": "Multiplication and division.",
+            "imagePath": "assets/images/mathematics.jpg"
+          },
+          {
+            "id": 3,
+            "title": "Science",
+            "preview": "Life and earth sciences.",
+            "imagePath": "assets/images/science.jpg"
+          },
+          {
+            "id": 4,
+            "title": "Social Studies",
+            "preview": "History and geography.",
+            "imagePath": "assets/images/social_studies.jpg"
+          },
+          {
+            "id": 5,
+            "title": "Art and Music",
+            "preview": "Advanced drawing and music theory.",
+            "imagePath": "assets/images/art_and_music.jpg"
+          },
+          {
+            "id": 6,
+            "title": "Physical Education",
+            "preview": "Advanced sports and fitness.",
+            "imagePath": "assets/images/physical_education.jpg"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Middle School (Ages 12-14)",
+        "preview": "Comprehensive subjects for middle school students.",
+        "description": "Subjects covering advanced topics in language arts, mathematics, science, social studies, art, music, physical education, and technology for children aged 12-14.",
+        "subjects": [
+          {
+            "id": 1,
+            "title": "Language Arts",
+            "preview": "Advanced literature analysis.",
+            "imagePath": "assets/images/language_arts.jpg"
+          },
+          {
+            "id": 2,
+            "title": "Mathematics",
+            "preview": "Pre-algebra and algebra.",
+            "imagePath": "assets/images/mathematics.jpg"
+          },
+          {
+            "id": 3,
+            "title": "Science",
+            "preview": "Biology and chemistry.",
+            "imagePath": "assets/images/science.jpg"
+          },
+          {
+            "id": 4,
+            "title": "Social Studies",
+            "preview": "World history and civics.",
+            "imagePath": "assets/images/social_studies.jpg"
+          },
+          {
+            "id": 5,
+            "title": "Art and Music",
+            "preview": "Advanced art techniques and music practice.",
+            "imagePath": "assets/images/art_and_music.jpg"
+          },
+          {
+            "id": 6,
+            "title": "Physical Education",
+            "preview": "Fitness and wellness.",
+            "imagePath": "assets/images/physical_education.jpg"
+          },
+          {
+            "id": 7,
+            "title": "Technology and Career Preparation",
+            "preview": "Computer science and career exploration.",
+            "imagePath": "assets/images/technology_and_career_preparation.jpg"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "High School (Ages 15+)",
+        "preview": "Specialized subjects for high school students.",
+        "description": "Subjects that provide specialized knowledge in literature, advanced mathematics, advanced sciences, history, social studies, art, music, physical education, and career preparation for children aged 15 and above.",
+        "subjects": [
+          {
+            "id": 1,
+            "title": "Language Arts",
+            "preview": "Literature analysis and critique.",
+            "imagePath": "assets/images/language_arts.jpg"
+          },
+          {
+            "id": 2,
+            "title": "Mathematics",
+            "preview": "Algebra II and calculus.",
+            "imagePath": "assets/images/mathematics.jpg"
+          },
+          {
+            "id": 3,
+            "title": "Science",
+            "preview": "Advanced biology and chemistry.",
+            "imagePath": "assets/images/science.jpg"
+          },
+          {
+            "id": 4,
+            "title": "Social Studies",
+            "preview": "U.S. history and world issues.",
+            "imagePath": "assets/images/social_studies.jpg"
+          },
+          {
+            "id": 5,
+            "title": "Art and Music",
+            "preview": "Specialized art courses and advanced music theory.",
+            "imagePath": "assets/images/art_and_music.jpg"
+          },
+          {
+            "id": 6,
+            "title": "Physical Education",
+            "preview": "Advanced fitness programs.",
+            "imagePath": "assets/images/physical_education.jpg"
+          },
+          {
+            "id": 7,
+            "title": "Technology and Career Preparation",
+            "preview": "Coding and vocational training.",
+            "imagePath": "assets/images/technology_and_career_preparation.jpg"
+          }
+        ]
+      }
+    ]
+  }
+  
